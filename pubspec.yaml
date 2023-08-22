@@ -69,28 +69,28 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
-     - assests\wakeel2-removebg-preview.png
-     - assests\tarazo.png
-     - assests\Capture.png
-     - assests\Capture1.png
-     - assests\Capture2.png
-     - assests\Capture3.png
-     - assests\cs1.PNG
-     - assests\cs2.PNG
-     - assests\cs3.PNG
-     - assests\cs4.PNG
-     - assests\cs5.PNG
-     - assests\cs6.PNG
-     - assests\Frame2.png
-     - assests\img2.png
-     - assests\lawyer.PNG
-     - assests\LAW.PNG
-     - assests\LAW1.PNG
-     - assests\justice.png
-     - assests\book.png
-     - assests\ls.png
-     - assests\app.png
-     - assests\ham-200.png
+     - assests/wakeel2_removebg_preview.png
+     - assests/tarazo.png
+     - assests/Capture.png
+     - assests/Capture1.png
+     - assests/Capture2.png
+     - assests/Capture3.png
+     - assests/cs1.PNG
+     - assests/cs2.PNG
+     - assests/cs3.PNG
+     - assests/cs4.PNG
+     - assests/cs5.PNG
+     - assests/cs6.PNG
+     - assests/Frame2.png
+     - assests/img2.png
+     - assests/lawyer.PNG
+     - assests/LAW.PNG
+     - assests/LAW1.PNG
+     - assests/justice.png
+     - assests/book.png
+     - assests/ls.png
+     - assests/app.png
+     - assests/ham-200.png
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
 

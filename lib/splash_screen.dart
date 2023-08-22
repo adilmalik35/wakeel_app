@@ -41,7 +41,7 @@ class _SplashScreenState extends State<SplashScreen> {
           SizedBox(
             height: 20,
           ),
-          Image.asset('assests/wakeel2-removebg-preview.png')
+          Image.asset('assests/wakeel2_removebg_preview.png')
         ],
       ),
     );
